@@ -1,2 +1,3 @@
 # my_first_repo
-practice account for git
+practice account for gi
+t atnaujintas
